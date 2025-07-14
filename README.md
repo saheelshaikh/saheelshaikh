@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --># 🌐 Mohammed Saheel Shaikh – Developer Portfolio
 
-A modern, responsive portfolio platform showcasing my full-stack projects, WordPress freelance work, certifications, and GitHub contributions. Designed to be a visually enhanced wrapper around my GitHub profile.
+A modern, responsive portfolio platform showcasing my full-stack projects, WordPress freelance work. Designed to be a visually enhanced wrapper around my GitHub profile.
 
 ![React](https://img.shields.io/badge/React-18.x-blue?logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38b2ac?logo=tailwindcss)
@@ -41,8 +41,7 @@ A modern, responsive portfolio platform showcasing my full-stack projects, WordP
 
 ## 🧠 About Me
 
-Hi, I’m **Mohammed Saheel Shaikh**, a Full Stack Developer and WordPress Consultant based in Mangalore, India. I'm a Computer Science graduate from Srinivas University (2024) and a passionate problem-solver with a drive for scalable, user-focused software.
-
+I’m **Mohammed Saheel Shaikh**, a Full Stack Developer and WordPress Consultant based in Mangalore, India. 
 ---
 
 ## 🧩 Key Features
@@ -54,6 +53,15 @@ Hi, I’m **Mohammed Saheel Shaikh**, a Full Stack Developer and WordPress Consu
 - ☁️ Cloud deployment projects on AWS & Azure
 - 📜 Certification highlights (Harvard, IBM, Azure)
 - 🔗 Integrated contact info and social links
+
+---
+## 💼 Skills
+
+**Languages:** JavaScript, PHP, Python, C++, Java  
+**Frameworks:** React.js, Node.js, Express.js, WordPress, Bootstrap  
+**Databases:** MongoDB, MySQL, SQL  
+**Tools & Platforms:** GitHub, Postman, AWS (EC2, S3), Azure, Hostinger, VSCode, Vercel  
+**Soft Skills:** Communication, Teamwork, Leadership, Fast Learner  
 
 ---
 
@@ -70,8 +78,6 @@ Full-stack CRM built from scratch with real-time updates, authentication, and da
 ### 3. ☁️ **Cloud Deployment (AWS & Azure)**
 Deployed multiple apps with cost optimizations and enhanced uptime using EC2, S3, and Azure App Services.
 
-### 4. 👨‍💻 **Open Source – Onyx**
-Contributed major frontend improvements and bug fixes to a fast-growing open-source project.
 
 ---
 
@@ -84,33 +90,16 @@ Contributed major frontend improvements and bug fixes to a fast-growing open-sou
 | **WisdomeWorld.com**| CTA for quote requests with backend optimization and user experience  |
 
 ---
-
-## 💼 Skills
-
-**Languages:** JavaScript, PHP, Python, C++, Java  
-**Frameworks:** React.js, Node.js, Express.js, WordPress, Bootstrap  
-**Databases:** MongoDB, MySQL, SQL  
-**Tools & Platforms:** GitHub, Postman, AWS (EC2, S3), Azure, Hostinger, VSCode, Vercel  
-**Soft Skills:** Communication, Teamwork, Leadership, Fast Learner  
-
----
-
-## 📜 Certifications
-
-- 🎓 CS50 – Harvard University (2024)
-- ☁️ Microsoft Azure Fundamentals (2024)
-- 🧑‍💻 IBM Front-End Developer (Coursera, 2024)
-
----
-
 ## 📫 Contact
 
-- 📧 Email: [sahilsheakh86@gmail.com](mailto:sahilsheakh86@gmail.com)
-- 📞 Phone: +91 9686299711  
-- 🔗 [GitHub](https://github.com/saheelshaikh) | [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📄 [Download Resume](https://link-to-your-resume.pdf)
+ Email: [sahilsheakh86@gmail.com](mailto:sahilsheakh86@gmail.com)
+ linkedIn : [LinkedIn](https://www.linkedin.com/in/your-link)  
 
 ---
+
+
+
+
 
 
 
