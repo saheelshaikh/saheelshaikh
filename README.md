@@ -27,16 +27,15 @@ A modern, responsive portfolio platform showcasing my full-stack projects, WordP
 ## 🔗 Live Demo
 
 🚀 **[View Portfolio](http://saheel-sheakh-portfolio.s3-website-us-east-1.amazonaws.com/)**  
-🎯 Hosted on **Vercel** | Built with **React.js** + **TailwindCSS**
+🎯 Hosted on **AWS** | Built with **React.js** + **TailwindCSS**
 
 ---
 
 ## 📸 Previews
 
-> *(Add actual screenshots to assets/ and replace links below)*
-
-![Desktop Preview](assets/preview-desktop.png)
-![Mobile Preview](assets/preview-mobile.png)
+<img width="1000" height="900" alt="lim" src="https://github.com/user-attachments/assets/fd129573-e842-4571-b10f-d5928f707f71" />
+<img width="1000" height="900" alt="tag" src="https://github.com/user-attachments/assets/9bff2d14-70b5-4422-9545-fddc9714ee21" />
+<img width="1000" height="900" alt="image" src="https://github.com/user-attachments/assets/1ac79d11-9ee7-46fc-8bfb-fa377dd0b1b7" />
 
 ---
 
