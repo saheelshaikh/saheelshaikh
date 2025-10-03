@@ -3,37 +3,28 @@
 Hi there 👋 I’m Mohammed Saheel Shaikh, a Full Stack Developer and WordPress Consultant based in Mangalore, India.
 I specialize in building scalable web applications, custom WordPress solutions, and cloud deployments with AWS & Azure.
 
-🔗 Live Portfolio
+🔗 Live Portfolio:https://saheelshaikh.github.io/portfolio/
 
 🚀 View My Portfolio
 
 🎯 Hosted on AWS S3 | Built with React + TailwindCSS
 
-📸 Preview
-<p align="center"> <img src="https://github.com/user-attachments/assets/fd129573-e842-4571-b10f-d5928f707f71" width="800" /> <img src="https://github.com/user-attachments/assets/9bff2d14-70b5-4422-9545-fddc9714ee21" width="800" /> </p>
+
+
 🧠 About Me
 
 🎓 Computer Science Graduate – Srinivas University, 2024
 
 🔧 Open-source contributor @ Onyx
  (critical bug fixes & frontend design)
-
 ☁️ Hands-on with AWS, Azure, and modern deployment practices
-
 💡 Passionate about building scalable applications and contributing to tech communities
-
 🧩 Key Highlights
-
 🤖 AI Projects – Gemini-powered journaling chatbot (MERN + JWT)
-
 🧰 Custom CRM System – Full-stack CRM with real-time dashboards & authentication
-
 📦 Freelance WordPress Projects – Optimized websites for logistics, real estate & education
-
 ☁️ Cloud Deployments – AWS EC2/S3 & Azure App Services
-
 📜 Certifications – Harvard CS50, IBM Frontend, Azure Fundamentals
-
 💼 Skills
 
 Languages: JavaScript, PHP, Python, C++, Java
@@ -50,11 +41,9 @@ Conversational journaling chatbot with user log storage, powered by Google Gemin
 🔗 Live Demo
 
 🧰 Custom CRM System
-
 Full-stack CRM with authentication, analytics dashboards, and live data updates.
 
 ☁️ Cloud Deployments
-
 Optimized and deployed multiple apps on AWS EC2/S3 & Azure App Services.
 
 🌍 Freelance WordPress Projects
@@ -62,11 +51,13 @@ Project	Highlights
 Limamar.com	Shipment tracking via APIs, performance optimized
 Tagfelson.com	UI redesign & backend improvements for mobile responsiveness
 WisdomeWorld.com	Custom CTA + backend optimization for better user experience
+
+
 🏆 Achievements
 
 🌟 Open-source contributions recognized on GitHub
 
-🥇 Delivered 10+ freelance projects (WordPress + custom APIs)
+🥇 Delivered 15+ freelance projects (web development)
 
 📜 Earned 3+ global certifications (CS50, IBM, Azure)
 
@@ -75,9 +66,7 @@ WisdomeWorld.com	Custom CTA + backend optimization for better user experience
 📫 Contact Me
 
 📧 Email: sahilsheakh86@gmail.com
-
 💼 LinkedIn: linkedin.com/in/saheelshaikh
 
-🌍 Portfolio: View Here
 
 ✨ "Building scalable tech, one project at a time."
