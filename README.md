@@ -1,4 +1,4 @@
-🌐 Mohammed Saheel Shaikh – Developer Portfolio
+🌐 Mohammed Saheel Shaikh 
 
 Hi there 👋 I’m Mohammed Saheel Shaikh, a Full Stack Developer and WordPress Consultant based in Mangalore, India.
 I specialize in building scalable web applications, custom WordPress solutions, and cloud deployments with AWS & Azure.
