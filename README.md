@@ -1,105 +1,83 @@
-## Hi there 👋
+🌐 Mohammed Saheel Shaikh – Developer Portfolio
 
-<!--
-**saheelshaikh/saheelshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 I’m Mohammed Saheel Shaikh, a Full Stack Developer and WordPress Consultant based in Mangalore, India.
+I specialize in building scalable web applications, custom WordPress solutions, and cloud deployments with AWS & Azure.
 
-Here are some ideas to get you started:
+🔗 Live Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---># 🌐 Mohammed Saheel Shaikh – Developer Portfolio
+🚀 View My Portfolio
 
-A modern, responsive portfolio platform showcasing my full-stack projects, WordPress freelance work. Designed to be a visually enhanced wrapper around my GitHub profile.
+🎯 Hosted on AWS S3 | Built with React + TailwindCSS
 
-![React](https://img.shields.io/badge/React-18.x-blue?logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38b2ac?logo=tailwindcss)
-![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
-![MIT License](https://img.shields.io/badge/license-MIT-green)
+📸 Preview
+<p align="center"> <img src="https://github.com/user-attachments/assets/fd129573-e842-4571-b10f-d5928f707f71" width="800" /> <img src="https://github.com/user-attachments/assets/9bff2d14-70b5-4422-9545-fddc9714ee21" width="800" /> </p>
+🧠 About Me
 
----
+🎓 Computer Science Graduate – Srinivas University, 2024
 
-## 🔗 Live Demo
+🔧 Open-source contributor @ Onyx
+ (critical bug fixes & frontend design)
 
-🚀 **[View Portfolio](http://saheel-sheakh-portfolio.s3-website-us-east-1.amazonaws.com/)**  
-🎯 Hosted on **AWS** | Built with **React.js** + **TailwindCSS**
+☁️ Hands-on with AWS, Azure, and modern deployment practices
 
----
+💡 Passionate about building scalable applications and contributing to tech communities
 
-## 📸 Previews
+🧩 Key Highlights
 
-<img width="1000" height="900" alt="lim" src="https://github.com/user-attachments/assets/fd129573-e842-4571-b10f-d5928f707f71" />
-<img width="1000" height="900" alt="tag" src="https://github.com/user-attachments/assets/9bff2d14-70b5-4422-9545-fddc9714ee21" />
-<img width="1000" height="900" alt="image" src="https://github.com/user-attachments/assets/1ac79d11-9ee7-46fc-8bfb-fa377dd0b1b7" />
+🤖 AI Projects – Gemini-powered journaling chatbot (MERN + JWT)
 
----
+🧰 Custom CRM System – Full-stack CRM with real-time dashboards & authentication
 
-## 🧠 About Me
+📦 Freelance WordPress Projects – Optimized websites for logistics, real estate & education
 
-I’m **Mohammed Saheel Shaikh**, a Full Stack Developer and WordPress Consultant based in Mangalore, India. 
----
+☁️ Cloud Deployments – AWS EC2/S3 & Azure App Services
 
-## 🧩 Key Features
+📜 Certifications – Harvard CS50, IBM Frontend, Azure Fundamentals
 
-- ⚙️ Dynamic tech-stack display
-- 💬 Showcases major freelance projects with WordPress + API integrations
-- 🤖 Gemini-powered AI Chatbot app (MERN + JWT)
-- 🧠 Real open-source contributions (Onyx)
-- ☁️ Cloud deployment projects on AWS & Azure
-- 📜 Certification highlights (Harvard, IBM, Azure)
-- 🔗 Integrated contact info and social links
+💼 Skills
 
----
-## 💼 Skills
+Languages: JavaScript, PHP, Python, C++, Java
+Frameworks & Tools: React.js, Node.js, Express.js, WordPress, Bootstrap, TailwindCSS
+Databases: MongoDB, MySQL, SQL
+Cloud & DevOps: AWS (EC2, S3), Azure, Vercel, Hostinger
+Other Tools: GitHub, Postman, VSCode
+Soft Skills: Problem-Solving, Communication, Teamwork, Fast Learning
 
-**Languages:** JavaScript, PHP, Python, C++, Java  
-**Frameworks:** React.js, Node.js, Express.js, WordPress, Bootstrap  
-**Databases:** MongoDB, MySQL, SQL  
-**Tools & Platforms:** GitHub, Postman, AWS (EC2, S3), Azure, Hostinger, VSCode, Vercel  
-**Soft Skills:** Communication, Teamwork, Leadership, Fast Learner  
+🚀 Featured Projects
+💬 AI ChatBot (Gemini API + MERN + JWT)
 
----
+Conversational journaling chatbot with user log storage, powered by Google Gemini AI.
+🔗 Live Demo
 
-## 🚀 Projects
+🧰 Custom CRM System
 
-### 1. 💬 **AI ChatBot with Gemini API**
-> MERN Stack + Gemini API + JWT  
-Conversational journaling chatbot that stores user logs, powered by Google’s Gemini AI.  
-🔗 [Live Demo](https://ai-powered-journal-chat-app-mern-gemini-chat-frontend-master.vercel.app/)
+Full-stack CRM with authentication, analytics dashboards, and live data updates.
 
-### 2. 🧰 **Custom CRM System**
-Full-stack CRM built from scratch with real-time updates, authentication, and data visualization dashboards.
+☁️ Cloud Deployments
 
-### 3. ☁️ **Cloud Deployment (AWS & Azure)**
-Deployed multiple apps with cost optimizations and enhanced uptime using EC2, S3, and Azure App Services.
+Optimized and deployed multiple apps on AWS EC2/S3 & Azure App Services.
 
+🌍 Freelance WordPress Projects
+Project	Highlights
+Limamar.com	Shipment tracking via APIs, performance optimized
+Tagfelson.com	UI redesign & backend improvements for mobile responsiveness
+WisdomeWorld.com	Custom CTA + backend optimization for better user experience
+🏆 Achievements
 
----
+🌟 Open-source contributions recognized on GitHub
 
-## 🌍 Freelance WordPress Projects
+🥇 Delivered 10+ freelance projects (WordPress + custom APIs)
 
-| Project        | Highlights                                                                 |
-|----------------|---------------------------------------------------------------------------|
-| **Limamar.com**     | Shipment tracking feature via APIs, performance optimized              |
-| **Tagfelson.com**   | Refactored UI components and backend logic for responsiveness          |
-| **WisdomeWorld.com**| CTA for quote requests with backend optimization and user experience  |
+📜 Earned 3+ global certifications (CS50, IBM, Azure)
 
----
-## 📫 Contact
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=saheelshaikh&show_icons=true&theme=tokyonight" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=saheelshaikh&theme=tokyonight" height="180"/> </p>
+📫 Contact Me
 
- Email: [sahilsheakh86@gmail.com](mailto:sahilsheakh86@gmail.com)
- linkedIn : [LinkedIn](https://www.linkedin.com/in/your-link)  
+📧 Email: sahilsheakh86@gmail.com
 
----
+💼 LinkedIn: linkedin.com/in/saheelshaikh
 
+🌍 Portfolio: View Here
 
-
-
-
-
-
+✨ "Building scalable tech, one project at a time."
